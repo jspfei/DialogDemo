@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\work\\dialogdemo\\zhy_dialogfragment\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_edit_name.xml",
+        "source": "E:\\work\\dialogdemo\\zhy_dialogfragment\\app\\src\\main\\res\\layout\\fragment_edit_name.xml"
+    },
+    {
+        "merged": "E:\\work\\dialogdemo\\zhy_dialogfragment\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_login_dialog.xml",
+        "source": "E:\\work\\dialogdemo\\zhy_dialogfragment\\app\\src\\main\\res\\layout\\fragment_login_dialog.xml"
+    },
+    {
+        "merged": "E:\\work\\dialogdemo\\zhy_dialogfragment\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\work\\dialogdemo\\zhy_dialogfragment\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\project\andrioidSdk\andrioidSdk\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\work\dialogdemo\Demo_zhy_04_game_2048\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_9b8e1f0a863d0955c3cdd09b08914d2d7efcc96f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work\dialogdemo\Demo_zhy_04_game_2048\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7eb1965fcab2a4a8aaab4ccf9ce29fe500647e43">
+        <dex dex="E:\work\dialogdemo\Demo_zhy_04_game_2048\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_092264ef2d5d9de2af98ad5ec22d3e5593134fdf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work\dialogdemo\Demo_zhy_04_game_2048\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d1ec5d6f1c6f98771e3cb1309be38a7bc943d5f4">
+        <dex dex="E:\work\dialogdemo\Demo_zhy_04_game_2048\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_49bdf50dda4b7307b6e8f4abcca3f63b1ddca1c3\classes.dex" />
+    </item>
+
+</items>

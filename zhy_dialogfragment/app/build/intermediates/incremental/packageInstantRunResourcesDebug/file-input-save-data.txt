@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Tue Jan 03 17:25:14 CST 2017
+2.base=E\:\\work\\dialogdemo\\zhy_dialogfragment\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=E\:\\work\\dialogdemo\\zhy_dialogfragment\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\fragment_login_dialog.xml
+5.set=ANDROID_RESOURCE
+3.base=E\:\\work\\dialogdemo\\zhy_dialogfragment\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=E\:\\work\\dialogdemo\\zhy_dialogfragment\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\title.jpg
+2.set=ANDROID_RESOURCE
+4.base=E\:\\work\\dialogdemo\\zhy_dialogfragment\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=E\:\\work\\dialogdemo\\zhy_dialogfragment\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+7.set=ANDROID_RESOURCE
+count=9
+0.file=E\:\\work\\dialogdemo\\zhy_dialogfragment\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v16\\fragment_login_dialog.xml
+5.base=E\:\\work\\dialogdemo\\zhy_dialogfragment\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=E\:\\work\\dialogdemo\\zhy_dialogfragment\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+4.set=ANDROID_RESOURCE
+6.base=E\:\\work\\dialogdemo\\zhy_dialogfragment\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=E\:\\work\\dialogdemo\\zhy_dialogfragment\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+1.set=ANDROID_RESOURCE
+7.base=E\:\\work\\dialogdemo\\zhy_dialogfragment\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=E\:\\work\\dialogdemo\\zhy_dialogfragment\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\fragment_edit_name.xml
+6.set=ANDROID_RESOURCE
+0.base=E\:\\work\\dialogdemo\\zhy_dialogfragment\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=E\:\\work\\dialogdemo\\zhy_dialogfragment\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=E\:\\work\\dialogdemo\\zhy_dialogfragment\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+3.set=ANDROID_RESOURCE
+1.base=E\:\\work\\dialogdemo\\zhy_dialogfragment\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=E\:\\work\\dialogdemo\\zhy_dialogfragment\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

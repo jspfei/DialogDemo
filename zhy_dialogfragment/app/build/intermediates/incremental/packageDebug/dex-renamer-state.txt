@@ -1,0 +1,7 @@
+#Tue Jan 03 17:25:30 CST 2017
+base.0=E\:\\work\\dialogdemo\\zhy_dialogfragment\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_876bbd158f01c3ad782cdb2fbe1ecbc225c6d725
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\work\\dialogdemo\\zhy_dialogfragment\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ebf3906ea09eb6e7f67ddb1503ae3cae7b8d4401\\classes.dex
+base.1=E\:\\work\\dialogdemo\\zhy_dialogfragment\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ebf3906ea09eb6e7f67ddb1503ae3cae7b8d4401
+file.0=E\:\\work\\dialogdemo\\zhy_dialogfragment\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_876bbd158f01c3ad782cdb2fbe1ecbc225c6d725\\classes.dex

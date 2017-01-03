@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\project\andrioidSdk\andrioidSdk\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\work\dialogdemo\zhy_dialogfragment\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_9b8e1f0a863d0955c3cdd09b08914d2d7efcc96f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work\dialogdemo\zhy_dialogfragment\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9a2703179438450f553c15f4d22c9ee91cda691d">
+        <dex dex="E:\work\dialogdemo\zhy_dialogfragment\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_876bbd158f01c3ad782cdb2fbe1ecbc225c6d725\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work\dialogdemo\zhy_dialogfragment\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec192137998fdeb76f605cae87ecc3d7a4dfcb06">
+        <dex dex="E:\work\dialogdemo\zhy_dialogfragment\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ebf3906ea09eb6e7f67ddb1503ae3cae7b8d4401\classes.dex" />
+    </item>
+
+</items>
