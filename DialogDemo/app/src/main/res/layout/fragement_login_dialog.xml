@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:background="@color/white"
+    android:layout_height="match_parent">
+   <TextView
+       android:text="@string/app_name"
+       android:background="#FFFFBB33"
+       android:layout_width="match_parent"
+       android:gravity="center"
+       android:textAllCaps="false"
+       android:textColor="@color/white"
+       android:textSize="@dimen/sp_15"
+       android:layout_height="32dp" />
+
+    <EditText
+        android:id="@+id/id_txt_username"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/dp_4"
+        android:layout_marginLeft="@dimen/dp_4"
+        android:layout_marginRight="@dimen/dp_4"
+        android:layout_marginTop="@dimen/dp_16"
+        android:hint="input  username"
+        android:inputType="textEmailAddress"
+        />
+
+    <EditText
+        android:id="@+id/id_txt_password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/dp_16"
+        android:layout_marginLeft="@dimen/dp_4"
+        android:layout_marginRight="@dimen/dp_4"
+        android:layout_marginTop="@dimen/dp_4"
+        android:hint="input  password"
+        android:fontFamily="sans-serif"
+        android:inputType="textPassword"
+        />
+
+
+</LinearLayout>
